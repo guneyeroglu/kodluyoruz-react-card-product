@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "img": "https://cdn.dsmcdn.com/ty836/pimWidgetApi/mobile_20230419110406_SporOutdoorKuponluUrunler2307245mobile.jpg",
+    "name": "Spor Ayakkabı",
+    "detailLink": "5"
+  },
+  {
+    "id": 2,
+    "img": "https://cdn.dsmcdn.com/ty822/campaign/banners/original/618519/856aef3bd9_2.jpg",
+    "name": "Bershka",
+    "detailLink": "7"
+  },
+  {
+    "id": 3,
+    "img": "https://cdn.dsmcdn.com/ty835/pimWidgetApi/mobile_20230419131825_KombinleriniYenilemeZamani.jpg",
+    "name": "Koton",
+    "detailLink": "9"
+  },
+  {
+    "id": 4,
+    "img": "https://cdn.dsmcdn.com/ty836/pimWidgetApi/mobile_20230419125717_2314852ErkekMobile202304191505.jpg",
+    "name": "Mavi",
+    "detailLink": "12"
+  },
+  {
+    "id": 5,
+    "img": "https://cdn.dsmcdn.com/ty834/pimWidgetApi/mobile_20230419190249_AvvaBayram2314779mobile.jpg",
+    "name": "LCW",
+    "detailLink": "21"
+  }
+]
